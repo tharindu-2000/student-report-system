@@ -1,0 +1,33 @@
+The Student Entity:
+
+1. Full Name
+2. Mobile No
+3. Parent Email
+4. Father's Name
+5. Mother's Name
+6. Gurdian Phone
+7. Index No - primary key
+8. Birthday
+9. Gender
+10. Religion
+11. Address
+12. Grade
+13. Attendence Count
+
+Subject:
+1. subject_code (primary key)
+2. subject name
+
+Exam :
+1. subject_code (composite primary key)
+2. index_no
+3. marks
+
+Term
+1. term_id
+2. term_year
+
+Photo:
+1. photo_id
+2. index_no
+3. photo bitmap
